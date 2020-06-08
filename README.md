@@ -4,4 +4,4 @@ vanilla_JS_ES6_challenge, creates beats upon keydown event (like a beatmaker)
 * Solutions
 * Video tutorials
                     all in [javascript30.com](https://javascript30.com)
-![Project Snapshot](./CAPTURE.png)
+![Project Snapshot](./Capture.png)
